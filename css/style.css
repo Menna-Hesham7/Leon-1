@@ -466,11 +466,17 @@ font-weight: 300;
     color: white;
     text-align: center;
     padding: 20px;
+    padding-bottom: 10px;
     font-size: 15px;
 }
 .footer span{
     font-weight: bold;
     color: var(--main-color);
+}
+.footer .m{
+    color: var(--main-color);
+    margin: 20px auto;
+    font-weight: bold;
 }
 /* End Footer */
 
